@@ -1,0 +1,15 @@
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\A8CFManyToMany.exe.config
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\A8CFManyToMany.exe
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\A8CFManyToMany.pdb
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.Form1.resources
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.Migrations.a1.resources
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.exe
+C:\Users\Mustafa\Desktop\ADO.NET15\A8CFManyToMany\obj\Debug\A8CFManyToMany.pdb
